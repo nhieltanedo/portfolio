@@ -1,0 +1,2 @@
+20240807	21:29:33	91c60cc7-a3a6-4f54-8ee8-15135c1ee76a	Error	Not allowed by CORS	OPTIONS	/	https://www.google.com
+20240807	21:29:33	2ca9a7e4-dffb-4b45-ad34-d06a17aeb675	Error	Not allowed by CORS	GET	/	https://www.google.com
